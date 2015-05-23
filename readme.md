@@ -31,9 +31,13 @@ Our Anti-Harassment Policy prohibits the following:
 
 Event organizers/volunteers will:
 
+*   Uphold the CoC and be excellent examples of personal and professional conduct
+
+*   Deter all CoC violations and keep vigilant in watching for persons in need of help
+
 *   Contact local law enforcement or venue security
 
-*   Provide escorts
+*   Provide escorts to anyone requesting safety and security
 
 *   Assist those experiencing harassment to feel safe for the duration of the event
 
