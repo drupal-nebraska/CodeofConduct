@@ -33,7 +33,7 @@ Event organizers/volunteers will:
 
 *   Uphold the CoC and be excellent examples of personal and professional conduct
 
-*   Deter all CoC violations and keep vigilant in watching for persons in need of help
+*   Attempt to prevent potential CoC violations and keep vigilant in watching for persons in need of help
 
 *   Contact local law enforcement or venue security
 
