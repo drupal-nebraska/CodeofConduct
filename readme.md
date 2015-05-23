@@ -1,5 +1,5 @@
 # Code of Conduct
-We expect all participants will be considerate, respectful, and collaborative at all community events. 
+We expect all participants will be considerate, respectful, and collaborative at all community events.
 
 The CoC applies to all participants. Participants include attendees, speakers, organizers, volunteers, sponsors, vendors and staff.
 
@@ -7,9 +7,9 @@ The CoC applies at all official and unofficial events. Unofficial events include
 
 ## Anti-Harassment Policy
 
-Our Anti-Harassment Policy prohibits the following: 
+Our Anti-Harassment Policy prohibits the following:
 
-*   Offensive comments related to gender, sexual orientation, race, religion, disability 
+*   Offensive comments related to gender, gender identity and expression, age, sexual orientation, race, religion, disability, body size, and physical appearance
 
 *   Inappropriate use of sexual images (including in presentations)
 
@@ -17,9 +17,11 @@ Our Anti-Harassment Policy prohibits the following:
 
 *   Harassing photography or recording
 
-*   Inappropriate physical contact, and unwelcome sexual attention
+*   Inappropriate or otherwise unwelcome physical contact or sexual attention (including unwanted hugs, touches or touching pregnant bellies)
 
 *   Sustained disruption of talks or events
+
+*   Questions, comments or actions without empathy, thoughtfulness or otherwise not conducive to positive growth
 
 *   Harassing, abusive, discriminatory, or derogatory conduct
 
@@ -46,11 +48,11 @@ At all community and social events we expect everyone will:
 
 *   Refrain from demeaning, discriminatory, or harassing behavior and speech
 
-*   Act and engage in an authentic and active way to help to foster our community 
+*   Act and engage in an authentic, thoughtful, and empathetic way to help to foster our community
 
 *   Be mindful of your surroundings and of your fellow participants
 
-*   Alert meeting organizers and volunteers if you notice a dangerous situation or someone in distress
+*   Alert meeting organizers and volunteers if you notice CoC violations, someone in distress or a dangerous situation
 
 ### Expectations for Sponsors, Staff
 
