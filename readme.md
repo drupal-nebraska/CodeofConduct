@@ -27,7 +27,7 @@ Our Anti-Harassment Policy prohibits the following:
 
 ## Expectations for our Community
 
-### Expectations for Organizers
+### Organizers
 
 Event organizers will:
 
@@ -44,7 +44,7 @@ Event organizers will:
 The event organizers will take appropriate action against unacceptable behavior. Organizers may expel participants from the event without warning or refund.
 
 
-### Expectations for Everyone
+### Everyone
 
 At all community and social events we expect everyone will:
 
@@ -58,7 +58,7 @@ At all community and social events we expect everyone will:
 
 *   Alert meeting organizers and volunteers if you notice CoC violations, someone in distress or a dangerous situation
 
-### Expectations for Sponsors, Staff
+### Sponsors, Staff
 
 Sponsors (otherwise known as vendors, booth staff) and other staff are subject to the anti-harassment policy. Sponsors and staff agree to the following:
 
