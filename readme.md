@@ -27,9 +27,9 @@ Our Anti-Harassment Policy prohibits the following:
 
 ## Expectations for our Community
 
-### Expectations for Organizers/Volunteers
+### Expectations for Organizers
 
-Event organizers/volunteers will:
+Event organizers will:
 
 *   Uphold the CoC and be excellent examples of personal and professional conduct
 
@@ -41,7 +41,7 @@ Event organizers/volunteers will:
 
 *   Assist those experiencing harassment to feel safe for the duration of the event
 
-The event organizers/volunteers will take appropriate action against unacceptable behavior. Organizers may expel participants from the event without warning or refund.
+The event organizers will take appropriate action against unacceptable behavior. Organizers may expel participants from the event without warning or refund.
 
 
 ### Expectations for Everyone
